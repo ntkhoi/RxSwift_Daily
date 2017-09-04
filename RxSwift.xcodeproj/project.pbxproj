@@ -17,6 +17,7 @@
 		9C97644A33730E2C3A0FBD80 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		CAD519DBEC329CAE77A8ADD5 /* RxSwiftPlayground.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RxSwiftPlayground.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DAB343081F5D6A6000BAE25A /* ex1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ex1.playground; sourceTree = "<group>"; };
+		DAB3430A1F5D8A1000BAE25A /* ex2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ex2.playground; sourceTree = "<group>"; };
 		DD62BBB6E514F46B121426E5 /* Pods_RxSwiftPlayground.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RxSwiftPlayground.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -53,6 +54,7 @@
 		481DBCFAE0D583017466211E = {
 			isa = PBXGroup;
 			children = (
+				DAB3430A1F5D8A1000BAE25A /* ex2.playground */,
 				DAB343081F5D6A6000BAE25A /* ex1.playground */,
 				95196715D49BAD80E391B821 /* Products */,
 				08AB6B9D7A293C936E7D4833 /* Frameworks */,
